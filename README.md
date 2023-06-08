@@ -77,3 +77,25 @@ Enter any no bw 0-2 : 2
 --> Your choice is 2
 
 --> The match tied
+
+________________________________________________________________
+
+Instructions:
+
+["1" refers to Stone
+
+"2" refers to Paper
+
+"3" refers to Scissor]
+
+
+Press 0 to choose Stone
+
+Press 1 to choose Paper
+
+Press 2 to choose Scissor
+
+Enter any no bw 0-2 : 556
+
+--> Invalid input !!!
+
